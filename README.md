@@ -1,2 +1,2 @@
-stupiddev.github.io
+stupiddev
 ===================
